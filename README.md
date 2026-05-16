@@ -42,7 +42,19 @@ Zcore-Framework bridges the gap between lightweight mobile reconnaissance and po
 23. **DNS Connection Trace Cache Extractor:** Mine transient system caches to view recent browser paths.
 24. **Wipe Session Intelligence Data:** Instantly delete or reset the localized session report (`zcore_report.txt`).
 25. **Secure Core Framework Logout:** Safely close operations and log out of the global control grid.
+## ⚖️ License & Disclaimer
 
+### MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Legal Disclaimer
+**CRITICAL NOTICE:** This software is developed strictly for **educational purposes, ethical network security auditing, and defensive anti-fraud/phishing research**. 
+
+1. **Zcore-Framework** is designed to help users analyze their own network infrastructure, evaluate local endpoint security vulnerabilities, and research malicious scam campaigns.
+2. The developer (**Umut Zcore**) holds absolutely **NO responsibility** for any misuse, damage, unauthorized network penetration, or illegal activities conducted with this software.
+3. Engaging in unauthorized port scanning or network reconnaissance against external targets without explicit, written consent is illegal in many jurisdictions. 
+
+*By executing or deploying this framework, you fully agree to operate within local and international cyber laws.*
 ---
 
 ## 🔧 Prerequisites & Installation
